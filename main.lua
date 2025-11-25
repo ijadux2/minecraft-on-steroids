@@ -20,9 +20,7 @@ STONE = 3,
 
 }
 -- Game State
-
 local World = {}
-
 local Camera = {}
 function love.load()
 end
